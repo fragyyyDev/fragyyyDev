@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @fragyyyDev
+- 👀 I’m interested in Gym, AI, Coding
+- 🌱 I’m currently learning React
+- 📫 How to reach me fragyyyDev@gmail.com
