@@ -28,7 +28,7 @@
 
 ###
 
-<h3 align="left">🛠 Front-end</h3>
+<h3 align="left">🛠 Back-end</h3>
 
 ###
 
