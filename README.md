@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Tadeáš from Prague, Czech Republic 🍺<br><br>- 🧑‍💻 Working as a Full-stack developer at Let's Create<br>- 📚 I'm currently learning TypeScript, Advanced Python<br>- ⚡ In my free time I build apps and learn new things</p>
+<p align="left">I'm Tadeáš from Prague, Czech Republic 🍺<br><br>- 🧑‍💻 Working as a Full-stack developer at Let's Create<br>- 📚 I'm currently learning NextJS, React Native, Advanced Python<br>- ⚡ In my free time I build apps and learn new things</p>
 
 ###
 
